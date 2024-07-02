@@ -6,6 +6,7 @@ Este projeto é uma landing page desenvolvida utilizando React e Vite, focada em
 <p align="center">
   <img alt="" src="my-project/public/Capturar.PNG" width="100%">
 </p>
+
 ## Funcionalidades Principais
 
 - **Header:** Logotipo da empresa, menu de navegação, e botão destacado para contato.
