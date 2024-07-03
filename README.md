@@ -25,7 +25,7 @@ Este projeto é uma landing page desenvolvida utilizando React e Vite, focada em
   <img alt="" src="my-project/public/Capturar.PNG" width="100%">
 </p>
 
-markdown
+
 
 
 ## Funcionalidades Principais 🚀
