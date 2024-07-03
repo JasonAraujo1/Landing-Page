@@ -1,13 +1,16 @@
 
-
 # Projeto React-Vite: Landing Page Interativa
 
 Este projeto é uma landing page desenvolvida utilizando React e Vite, focada em apresentar serviços criativos de uma agência fictícia.
+
 <p align="center">
   <img alt="" src="my-project/public/Capturar.PNG" width="100%">
 </p>
 
-## Funcionalidades Principais
+```markdown
+
+
+## Funcionalidades Principais 🚀
 
 - **Header:** Logotipo da empresa, menu de navegação, e botão destacado para contato.
 - **Seção 1:** Descrição dos serviços da agência com um link "Learn More".
@@ -16,7 +19,7 @@ Este projeto é uma landing page desenvolvida utilizando React e Vite, focada em
 - **Galeria de Imagens:** Exibição de trabalhos da agência.
 - **Footer:** Links para navegação e redes sociais.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 💻
 
 - React
 - Vite
@@ -24,7 +27,7 @@ Este projeto é uma landing page desenvolvida utilizando React e Vite, focada em
 - JavaScript
 - HTML e CSS
 
-## Como Usar
+## Como Usar 📋
 
 1. **Instalação:**
    ```
@@ -40,18 +43,21 @@ Este projeto é uma landing page desenvolvida utilizando React e Vite, focada em
 
 3. Abra seu navegador e acesse `http://localhost:3000`.
 
-## Contribuição
+## Contribuição ✨
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues.
 
-## Autor
+## Autor 🧑‍💻
 
 Jason Araújo - [https://github.com/JasonAraujo1](https://seu-portfolio.com)
 
-## Licença
+## Licença 📝
 
 Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
 Adapte as seções conforme necessário para refletir detalhes específicos do seu projeto.
+```
+
+Agora cada tópico principal no README está acompanhado por um emoji correspondente!
