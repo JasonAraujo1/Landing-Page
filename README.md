@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="#-Funcionalidades-Principais ">Funcionalidades </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Tecnologias Utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Funcionalidades Principais ">Funcionalidades </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Como-usar">instruções</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -37,7 +37,7 @@ Este projeto é uma landing page desenvolvida utilizando React e Vite, focada em
 - **Galeria de Imagens:** Exibição de trabalhos da agência.
 - **Footer:** Links para navegação e redes sociais.
 
-## Tecnologias Utilizadas 💻
+## Tecnologias💻
 
 - React
 - Vite
