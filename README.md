@@ -44,6 +44,7 @@ Este projeto é uma landing page desenvolvida utilizando React e Vite, focada em
 - Tailwind CSS
 - JavaScript
 - HTML e CSS
+- Figma/Canva
 
 ## Como Usar 📋
 
