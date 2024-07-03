@@ -1,3 +1,21 @@
+<h1 align="center">#13 Landing page</h1>
+
+
+<p align="center">
+  Landing page completa.
+</p>
+
+<p align="center">
+  <a href="#-Funcionalidades-Principais ">Funcionalidades </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Tecnologias Utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Como-usar">instruções</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
 
 # Projeto React-Vite: Landing Page Interativa
 
@@ -60,4 +78,3 @@ Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE
 Adapte as seções conforme necessário para refletir detalhes específicos do seu projeto.
 ```
 
-Agora cada tópico principal no README está acompanhado por um emoji correspondente!
